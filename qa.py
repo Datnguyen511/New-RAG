@@ -5,8 +5,8 @@ from sentence_transformers import CrossEncoder
 RERANKER = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 LLM = OllamaLLM(model="deepseek-r1:1.5b")
 PROMPT_TEMPLATE = """
-You are a helpful AI assistant. Use the provided context to answer the query.
-If unsure, say you don't know. Be concise (max 3 sentences).
+You are a helpful AI assistant. Use the provided context to answer the query. 
+If unsure, state that you don't know. Be concise and factual (max 3 sentences).
 
 Query: {user_query}
 Context: {document_context}

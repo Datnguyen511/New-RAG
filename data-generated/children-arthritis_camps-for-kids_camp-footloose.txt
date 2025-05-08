@@ -1,0 +1,765 @@
+Camp Footloose | The Arthritis Movement - ANSW
+==============================================
+
+Camp Footloose
+--------------
+What is Camp Footloose?
+Camp Footloose is a unique opportunity for children and young people with arthritis aged 9 to 18 to have fun, meet others who share similar experiences and gain a sense of control over their condition. Our dedicated team of leaders and staff are committed to making the camp an unforgettable experience for everyone involved.
+Activities at the camp include exciting adventures such as abseiling, flying fox, rock climbing, challenge ropes courses and archery. In addition to the fun, we also offer educational sessions facilitated by qualified health professionals, and nursing staff are available 24/7 to assist with medications and other medical matters that may arise.
+Testimonials from Camp Footloose
+“Thank you for everything you and your team have done…She said it was the best week of her life and has come home with more confidence, a new-found sense of independence, and wonderful memories with her new friends.”
+“The leaders are so enthusiastic and kind. I feel that I am leaving my daughter in excellent hands. Very well organised. Many thanks!”
+“Thank you for holding a great camp. I met heaps of great people and had an amazing time.”
+“I learnt that it’s ok to tell people you’re in pain and you need assistance.”
+Future Camp Dates & Locations
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 175, 'https://www.arthritisnsw.org.au/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_175').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_175');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_175').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_175').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_175').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_175').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_175').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_175').val();gformInitSpinner( 175, 'https://www.arthritisnsw.org.au/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [175, current_page]);window['gf_submitting_175'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_175').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_175').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [175]);window['gf_submitting_175'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_175').text());}, 50);}else{jQuery('#gform_175').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [175, current_page]);gform.utils.trigger({ event: 'gform/postRender', native: false, data: { formId: 175, currentPage: current_page } });} );} ); 
+/* ]]&gt; */
+
+What is Camp Footloose?
+-----------------------
+Camp Footloose is a unique opportunity for children and young people with arthritis aged 9 to 18 to have fun, meet others who share similar experiences and gain a sense of control over their condition. Our dedicated team of leaders and staff are committed to making the camp an unforgettable experience for everyone involved.
+Activities at the camp include exciting adventures such as abseiling, flying fox, rock climbing, challenge ropes courses and archery. In addition to the fun, we also offer educational sessions facilitated by qualified health professionals, and nursing staff are available 24/7 to assist with medications and other medical matters that may arise.
+Testimonials from Camp Footloose
+“Thank you for everything you and your team have done…She said it was the best week of her life and has come home with more confidence, a new-found sense of independence, and wonderful memories with her new friends.”
+“The leaders are so enthusiastic and kind. I feel that I am leaving my daughter in excellent hands. Very well organised. Many thanks!”
+“Thank you for holding a great camp. I met heaps of great people and had an amazing time.”
+“I learnt that it’s ok to tell people you’re in pain and you need assistance.”
+Future Camp Dates & Locations
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Testimonials from Camp Footloose
+--------------------------------
+“Thank you for everything you and your team have done…She said it was the best week of her life and has come home with more confidence, a new-found sense of independence, and wonderful memories with her new friends.”
+“The leaders are so enthusiastic and kind. I feel that I am leaving my daughter in excellent hands. Very well organised. Many thanks!”
+“Thank you for holding a great camp. I met heaps of great people and had an amazing time.”
+“I learnt that it’s ok to tell people you’re in pain and you need assistance.”
+Future Camp Dates & Locations
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Future Camp Dates & Locations
+-----------------------------
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+-----------------------------------------------------------------------------------------------------
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Expression of Interest Form
+---------------------------
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+What is Camp Footloose?
+-----------------------
+Camp Footloose is a unique opportunity for children and young people with arthritis aged 9 to 18 to have fun, meet others who share similar experiences and gain a sense of control over their condition. Our dedicated team of leaders and staff are committed to making the camp an unforgettable experience for everyone involved.
+Activities at the camp include exciting adventures such as abseiling, flying fox, rock climbing, challenge ropes courses and archery. In addition to the fun, we also offer educational sessions facilitated by qualified health professionals, and nursing staff are available 24/7 to assist with medications and other medical matters that may arise.
+Testimonials from Camp Footloose
+“Thank you for everything you and your team have done…She said it was the best week of her life and has come home with more confidence, a new-found sense of independence, and wonderful memories with her new friends.”
+“The leaders are so enthusiastic and kind. I feel that I am leaving my daughter in excellent hands. Very well organised. Many thanks!”
+“Thank you for holding a great camp. I met heaps of great people and had an amazing time.”
+“I learnt that it’s ok to tell people you’re in pain and you need assistance.”
+Future Camp Dates & Locations
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Testimonials from Camp Footloose
+--------------------------------
+“Thank you for everything you and your team have done…She said it was the best week of her life and has come home with more confidence, a new-found sense of independence, and wonderful memories with her new friends.”
+“The leaders are so enthusiastic and kind. I feel that I am leaving my daughter in excellent hands. Very well organised. Many thanks!”
+“Thank you for holding a great camp. I met heaps of great people and had an amazing time.”
+“I learnt that it’s ok to tell people you’re in pain and you need assistance.”
+Future Camp Dates & Locations
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Future Camp Dates & Locations
+-----------------------------
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+-----------------------------------------------------------------------------------------------------
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Expression of Interest Form
+---------------------------
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+What is Camp Footloose?
+-----------------------
+Camp Footloose is a unique opportunity for children and young people with arthritis aged 9 to 18 to have fun, meet others who share similar experiences and gain a sense of control over their condition. Our dedicated team of leaders and staff are committed to making the camp an unforgettable experience for everyone involved.
+Activities at the camp include exciting adventures such as abseiling, flying fox, rock climbing, challenge ropes courses and archery. In addition to the fun, we also offer educational sessions facilitated by qualified health professionals, and nursing staff are available 24/7 to assist with medications and other medical matters that may arise.
+Testimonials from Camp Footloose
+“Thank you for everything you and your team have done…She said it was the best week of her life and has come home with more confidence, a new-found sense of independence, and wonderful memories with her new friends.”
+“The leaders are so enthusiastic and kind. I feel that I am leaving my daughter in excellent hands. Very well organised. Many thanks!”
+“Thank you for holding a great camp. I met heaps of great people and had an amazing time.”
+“I learnt that it’s ok to tell people you’re in pain and you need assistance.”
+Future Camp Dates & Locations
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Testimonials from Camp Footloose
+--------------------------------
+“Thank you for everything you and your team have done…She said it was the best week of her life and has come home with more confidence, a new-found sense of independence, and wonderful memories with her new friends.”
+“The leaders are so enthusiastic and kind. I feel that I am leaving my daughter in excellent hands. Very well organised. Many thanks!”
+“Thank you for holding a great camp. I met heaps of great people and had an amazing time.”
+“I learnt that it’s ok to tell people you’re in pain and you need assistance.”
+Future Camp Dates & Locations
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Future Camp Dates & Locations
+-----------------------------
+2025:
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+Berry Sport and Recreation Centre
+2026:
+6 – 10 October,
+Point Wolstoncroft Sport and Recreation Centre
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+For more information please contact Emily at eguenther@arthritis.org.au or 1300 275 826 extension 12.
+-----------------------------------------------------------------------------------------------------
+Expression of Interest Form
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Expression of Interest Form
+---------------------------
+"
+*
+" indicates required fields
+Parent / Carer Name
+*
+First
+Last
+Email
+*
+Phone
+*
+Post Code
+*
+Child's Name
+*
+Child's age (in years)
+*
+Has your child attended Camp Footloose in previous years?
+*
+Yes
+No
+How did you hear about the Camp?
+*
+Would you like to receive our free eNews?
+*
+Yes
+No
+I am interested in:
+*
+More information about the camp
+Registration details
+Financial assistance
+Other
+Comments
+This field is for validation purposes and should be left unchanged.
+
+Additional Readable Content
+-------------------------
+Camp Footloose is a unique opportunity for children and young people with arthritis aged 9 to 18 to have fun, meet others who share similar experiences and gain a sense of control over their condition. Our dedicated team of leaders and staff are committed to making the camp an unforgettable experience for everyone involved.
+Activities at the camp include exciting adventures such as abseiling, flying fox, rock climbing, challenge ropes courses and archery. In addition to the fun, we also offer educational sessions facilitated by qualified health professionals, and nursing staff are available 24/7 to assist with medications and other medical matters that may arise.
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+6 – 10 October,
+"
+" indicates required fields
+Camp Footloose is a unique opportunity for children and young people with arthritis aged 9 to 18 to have fun, meet others who share similar experiences and gain a sense of control over their condition. Our dedicated team of leaders and staff are committed to making the camp an unforgettable experience for everyone involved.
+Activities at the camp include exciting adventures such as abseiling, flying fox, rock climbing, challenge ropes courses and archery. In addition to the fun, we also offer educational sessions facilitated by qualified health professionals, and nursing staff are available 24/7 to assist with medications and other medical matters that may arise.
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+6 – 10 October,
+"
+" indicates required fields
+Camp Footloose is a unique opportunity for children and young people with arthritis aged 9 to 18 to have fun, meet others who share similar experiences and gain a sense of control over their condition. Our dedicated team of leaders and staff are committed to making the camp an unforgettable experience for everyone involved.
+Activities at the camp include exciting adventures such as abseiling, flying fox, rock climbing, challenge ropes courses and archery. In addition to the fun, we also offer educational sessions facilitated by qualified health professionals, and nursing staff are available 24/7 to assist with medications and other medical matters that may arise.
+11:00am, 29 September 2025 – 1.00pm, 2 October 2025,
+6 – 10 October,
+"
+" indicates required fields

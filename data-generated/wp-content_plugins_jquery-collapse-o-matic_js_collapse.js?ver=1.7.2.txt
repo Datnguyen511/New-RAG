@@ -1,0 +1,61 @@
+No Title
+========
+
+Additional Readable Content
+-------------------------
+/*!
+ * Collapse-O-Matic JavaSctipt v1.7.0
+ * https://pluginoven.com/plugins/collapse-o-matic/
+ *
+ * Copyright 2021, Twinpictures
+ */
+
+function collapse_init() {
+	//force collapse
+	jQuery('.force_content_collapse').each(function(index) {
+		jQuery(this).css('display', 'none');
+	});
+
+	//inital collapse
+	jQuery('.collapseomatic:not(.colomat-close)').each(function(index) {
+		var thisid = jQuery(this).attr('id');
+		jQuery('#target-'+thisid).css('display', 'none');
+	});
+
+	//inital swaptitle for pre-expanded elements
+	jQuery('.collapseomatic.colomat-close').each(function(index) {
+		var thisid = jQuery(this).attr('id');
+		if(jQuery("#swap-"+thisid).length > 0){
+			swapTitle(this, "#swap-"+thisid );
+		}
+		if(jQuery("#swapexcerpt-"+thisid).length > 0){
+			swapTitle("#excerpt-"+thisid, "#swapexcerpt-"+thisid);
+		}
+		jQuery('[id^=extra][id$='+thisid+']').each( function( index ){
+			if(jQuery(this).data('swaptitle')){
+				old_swap_title = jQuery(this).data('swaptitle');
+				old_title = jQuery(this).html();
+				jQuery(this).html(old_swap_title);
+				jQuery(this).data('swaptitle', old_title);
+			}
+		});
+	});
+}
+
+function swapTitle(origObj, swapObj){
+	if(jQuery(origObj).prop("tagName") == 'IMG'){
+		var origsrc = jQuery(origObj).prop('src');
+		var swapsrc = jQuery(swapObj).prop('src');
+
+		jQuery(origObj).prop('src',swapsrc);
+		jQuery(swapObj).prop('src',origsrc);
+	}
+	else{
+		var orightml = jQuery(origObj).html();
+		var swaphtml = jQuery(swapObj).html();
+
+		jQuery(origObj).html(swaphtml);
+		jQuery(swapObj).html(orightml);
+
+		//is cufon involved? if so, do that thing
+		if(swaphtml.indexOf("

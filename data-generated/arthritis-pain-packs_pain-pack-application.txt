@@ -1,0 +1,1076 @@
+Pain Pack Application | The Arthritis Movement - ANSW
+=====================================================
+
+Pain Pack Application
+---------------------
+Thank you for your interest in our Pain Pack.
+Our new Pain Pack is a FREE box of products and services for combatting pain, along with appropriate health information and discounts for relevant products and services. The pack addresses strategies to mitigate chronic arthritic pain including, physical exercise and joint strengthening, thermotherapy (heat cream and heat packs), nutrition and mindfulness.
+Eligibility
+During the pilot period, the Arthritis NSW Pain Pack is only applicable to individuals diagnosed with
+osteoarthritis
+only available to
+residents of:
+South Eastern NSW
+Bega Valley
+Eurobodalla
+Goulburn Mulwaree
+Kiama
+Queanbeyan-Palerang Regional
+Shellharbour
+Shoalhaven
+Snowy Monaro Regional
+Upper Lachlan Shire
+Wollongong
+Yass Valley
+Disclaimers
+Rheumatoid Arthritis:
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+Complex Pain:
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+complete the Expression of Interest form
+and we will contact you when packs are available in your area.
+Pain Pack Application Form
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 272, 'https://www.arthritisnsw.org.au/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_272').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_272');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_272').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_272').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_272').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_272').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_272').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_272').val();gformInitSpinner( 272, 'https://www.arthritisnsw.org.au/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [272, current_page]);window['gf_submitting_272'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_272').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_272').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [272]);window['gf_submitting_272'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_272').text());}, 50);}else{jQuery('#gform_272').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [272, current_page]);gform.utils.trigger({ event: 'gform/postRender', native: false, data: { formId: 272, currentPage: current_page } });} );} ); 
+/* ]]&gt; */
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Eligibility
+-----------
+During the pilot period, the Arthritis NSW Pain Pack is only applicable to individuals diagnosed with
+osteoarthritis
+only available to
+residents of:
+South Eastern NSW
+Bega Valley
+Eurobodalla
+Goulburn Mulwaree
+Kiama
+Queanbeyan-Palerang Regional
+Shellharbour
+Shoalhaven
+Snowy Monaro Regional
+Upper Lachlan Shire
+Wollongong
+Yass Valley
+Disclaimers
+Rheumatoid Arthritis:
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+Complex Pain:
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+complete the Expression of Interest form
+and we will contact you when packs are available in your area.
+Pain Pack Application Form
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Disclaimers
+-----------
+Rheumatoid Arthritis:
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+Complex Pain:
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+complete the Expression of Interest form
+and we will contact you when packs are available in your area.
+Pain Pack Application Form
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Pain Pack Application Form
+--------------------------
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Not in the Area?
+----------------
+
+Eligibility
+-----------
+During the pilot period, the Arthritis NSW Pain Pack is only applicable to individuals diagnosed with
+osteoarthritis
+only available to
+residents of:
+South Eastern NSW
+Bega Valley
+Eurobodalla
+Goulburn Mulwaree
+Kiama
+Queanbeyan-Palerang Regional
+Shellharbour
+Shoalhaven
+Snowy Monaro Regional
+Upper Lachlan Shire
+Wollongong
+Yass Valley
+Disclaimers
+Rheumatoid Arthritis:
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+Complex Pain:
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+complete the Expression of Interest form
+and we will contact you when packs are available in your area.
+Pain Pack Application Form
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Disclaimers
+-----------
+Rheumatoid Arthritis:
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+Complex Pain:
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+complete the Expression of Interest form
+and we will contact you when packs are available in your area.
+Pain Pack Application Form
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Pain Pack Application Form
+--------------------------
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Not in the Area?
+----------------
+
+Eligibility
+-----------
+During the pilot period, the Arthritis NSW Pain Pack is only applicable to individuals diagnosed with
+osteoarthritis
+only available to
+residents of:
+South Eastern NSW
+Bega Valley
+Eurobodalla
+Goulburn Mulwaree
+Kiama
+Queanbeyan-Palerang Regional
+Shellharbour
+Shoalhaven
+Snowy Monaro Regional
+Upper Lachlan Shire
+Wollongong
+Yass Valley
+Disclaimers
+Rheumatoid Arthritis:
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+Complex Pain:
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+complete the Expression of Interest form
+and we will contact you when packs are available in your area.
+Pain Pack Application Form
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Disclaimers
+-----------
+Rheumatoid Arthritis:
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+Complex Pain:
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+complete the Expression of Interest form
+and we will contact you when packs are available in your area.
+Pain Pack Application Form
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Pain Pack Application Form
+--------------------------
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+Phone
+Address
+*
+Street Address
+Address Line 2
+Suburb
+State
+Postcode
+Which condition do you have?
+*
+Osteoarthritis
+Inflammatory Arthritis (e.g. RA, AS etc)
+Non-arthritis-related pain condition (e.g. Fibromyalgia)
+Are you newly diagnosed?
+*
+Yes
+No
+How long have you lived with the condition?
+*
+Less than 2 years
+2-5 years
+6-8 years
+9-12 years
+13+ years
+How would you rate your arthritis pain from (0 – 10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How confident are you that you can take more control over your pain today (0-10)?
+*
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+How often does your arthritis pain disrupt your planned week?
+*
+Never
+1 day a week
+2 days a week
+3 days a week
+4 days a week
+5 days a week
+6 days a week
+7 days a week
+Would you like to subscribe to our fortnightly eNewsletter?
+*
+Yes
+No
+How did you hear about this program?
+*
+GP
+Health Clinic
+Other Support Organisation
+Social Media (Facebook)
+Arthritis NSW
+Not in the Area?
+Expression of Interest
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+
+Not in the Area?
+----------------
+
+Additional Readable Content
+-------------------------
+Thank you for your interest in our Pain Pack.
+Our new Pain Pack is a FREE box of products and services for combatting pain, along with appropriate health information and discounts for relevant products and services. The pack addresses strategies to mitigate chronic arthritic pain including, physical exercise and joint strengthening, thermotherapy (heat cream and heat packs), nutrition and mindfulness.
+During the pilot period, the Arthritis NSW Pain Pack is only applicable to individuals diagnosed with
+only available to
+South Eastern NSW
+Bega Valley
+Eurobodalla
+Goulburn Mulwaree
+Kiama
+Queanbeyan-Palerang Regional
+Shellharbour
+Shoalhaven
+Snowy Monaro Regional
+Upper Lachlan Shire
+Wollongong
+Yass Valley
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+and we will contact you when packs are available in your area.
+"
+" indicates required fields
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+Thank you for your interest in our Pain Pack.
+Our new Pain Pack is a FREE box of products and services for combatting pain, along with appropriate health information and discounts for relevant products and services. The pack addresses strategies to mitigate chronic arthritic pain including, physical exercise and joint strengthening, thermotherapy (heat cream and heat packs), nutrition and mindfulness.
+During the pilot period, the Arthritis NSW Pain Pack is only applicable to individuals diagnosed with
+only available to
+South Eastern NSW
+Bega Valley
+Eurobodalla
+Goulburn Mulwaree
+Kiama
+Queanbeyan-Palerang Regional
+Shellharbour
+Shoalhaven
+Snowy Monaro Regional
+Upper Lachlan Shire
+Wollongong
+Yass Valley
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+and we will contact you when packs are available in your area.
+"
+" indicates required fields
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >
+Thank you for your interest in our Pain Pack.
+Our new Pain Pack is a FREE box of products and services for combatting pain, along with appropriate health information and discounts for relevant products and services. The pack addresses strategies to mitigate chronic arthritic pain including, physical exercise and joint strengthening, thermotherapy (heat cream and heat packs), nutrition and mindfulness.
+During the pilot period, the Arthritis NSW Pain Pack is only applicable to individuals diagnosed with
+only available to
+South Eastern NSW
+Bega Valley
+Eurobodalla
+Goulburn Mulwaree
+Kiama
+Queanbeyan-Palerang Regional
+Shellharbour
+Shoalhaven
+Snowy Monaro Regional
+Upper Lachlan Shire
+Wollongong
+Yass Valley
+If you live with an inflammatory form of arthritis (e.g. Rheumatoid arthritis), this pain pack may not be optimal for you as it relates to more conservative management approaches to pain. Tailored medication/medical management is the higher priority for individuals experiencing RA-related pain overseen by a rheumatologist
+If you indicate that you experience pain from a condition that is not osteoarthritis. You may require more individualised or specific support in managing your pain. We encourage you to discuss these strategies with your GP and/or seek a referral to a Rheumatologist.
+We apologise for any inconvenience this may cause to those outside the specified criteria but please
+and we will contact you when packs are available in your area.
+"
+" indicates required fields
+If you don't currently reside in the areas listed above, please complete the Expression of Interest form and we will contact you when packs are available in your area.
+Register >

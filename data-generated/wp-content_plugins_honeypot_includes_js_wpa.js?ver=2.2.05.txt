@@ -1,0 +1,13 @@
+No Title
+========
+
+Additional Readable Content
+-------------------------
+var wpa_field_name, wpa_unique_id, wpa_add_test, wpa_hidden_field;
+
+jQuery(document).ready(function(){	
+	wpa_field_name 	= wpa_field_info.wpa_field_name;
+	wpa_unique_id 	= wpa_field_info.wpa_field_value;
+	wpa_add_test 	= wpa_field_info.wpa_add_test;
+
+	wpa_hidden_field 			= "

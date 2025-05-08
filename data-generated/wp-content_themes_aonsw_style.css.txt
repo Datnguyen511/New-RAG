@@ -1,0 +1,11 @@
+No Title
+========
+
+Additional Readable Content
+-------------------------
+/*
+Theme Name: AONSW
+Author: ZymZen
+Author URI: http://www.zymzen.com/
+Description: Custom WordPress theme for AONSW
+*/
